@@ -1,3 +1,5 @@
+###C++实现的文本参数解析器###
+
 通过一个类 Para_cinfig 类，封装所有的数据与方法
 
 Para_config 提供参数文件读取方法：read_config(const string)；
